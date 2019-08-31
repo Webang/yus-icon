@@ -2,10 +2,21 @@
   "name": "yus-icon",
   "version": "1.0.0",
   "description": "",
-  "main": "iconfont.js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webang/yus-icon.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webang/yus-icon/issues"
+  },
+  "homepage": "https://github.com/Webang/yus-icon#readme"
 }
